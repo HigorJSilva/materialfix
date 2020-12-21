@@ -9,6 +9,7 @@ Programa para manutenção de empresas com verificação de CNPJ junto à Receit
   
 ## Execução do programa
   Importe o arquivo empresas.sql para criar a tabela em seu banco de dados.  
-  Inicie o servidor web e acesse o diretório onde as arquivos do programa estão.
+  Altere o arquivo conexaoBD.php de acordo com as credenciais do seu banco de dados.  
+  Inicie o servidor web e acesse pelo navegador o diretório onde os arquivos do programa estão.
   
   
